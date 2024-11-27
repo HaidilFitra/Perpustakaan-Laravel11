@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <rect width="300" height="100" fill="#48D1CC" rx="10" ry="10"/>
+  <text x="150" y="60" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle">LiteraLink</text>
+  <path d="M30 30 L50 30 L50 70 L30 70 Z" fill="white"/>
+  <path d="M55 30 L75 30 L75 70 L55 70 Z" fill="white"/>
+  <circle cx="270" cy="50" r="20" fill="white"/>
+  <circle cx="270" cy="50" r="15" fill="#48D1CC"/>
+</svg>
